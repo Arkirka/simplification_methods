@@ -1,6 +1,6 @@
 package ru.vorobyov.simplificationmethods.configuration;
 
-import ru.vorobyov.simplificationmethods.service.MongoModels;
+import ru.vorobyov.simplificationmethods.service.mongo.MongoModels;
 
 import java.io.File;
 import java.io.FileInputStream;
